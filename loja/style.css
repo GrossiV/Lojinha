@@ -41,11 +41,10 @@ body {
 }
 
 .items {
-  width: 200px;
-  height: 200px;
-  margin: 5px;
+  margin: 10px;
   background-color: #f2f2f2;
-  padding: 5px;
+  padding: 24px;
+  border: 1px solid black;
 }
 
 .carrin {
@@ -64,4 +63,21 @@ body {
 .img-produto {
   width: 150px;
   height: 150px;
+  margin: 16px 0px 16px 0px;
+}
+
+.miolo {
+  display: flex;
+  justify-content: center;
+  padding: 2px;
+}
+
+.botoes {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.botao {
 }
