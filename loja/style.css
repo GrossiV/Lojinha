@@ -1,8 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
 #topo {
   height: 80px;
   width: 100%;
   color: red;
-  padding: 2px;
   border-bottom: 1px solid black;
   background: white;
   display: flex;
