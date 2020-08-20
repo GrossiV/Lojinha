@@ -1,1 +1,67 @@
+#topo {
+  height: 80px;
+  width: 100%;
+  color: red;
+  padding: 2px;
+  border-bottom: 1px solid black;
+  background: white;
+  display: flex;
+  align-items: center;
+  background-color: #f2f2f2;
+}
+.logo {
+  margin-left: 20px;
+}
+.dragonlogo {
+  height: 50px;
+  width: 50px;
+}
+.carrinhosuperior {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
 
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #ff3131;
+}
+
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.items {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  background-color: #f2f2f2;
+  padding: 5px;
+}
+
+.carrin {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+
+.titulo {
+  text-align: center;
+}
+.principal {
+  color: #f2f2f2;
+}
+
+.img-produto {
+  width: 150px;
+  height: 150px;
+}
