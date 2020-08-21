@@ -84,3 +84,18 @@ body {
 
 .botao {
 }
+
+.badge {
+  color: #f2f2f2;
+  background-color: red;
+  width: 18px;
+  height: 18px;
+  border-radius: 100%;
+  text-align: center;
+  position: relative;
+  left: 25px;
+  bottom: -33px;
+  border: 1px solid black;
+  font-size: 0.9em;
+  font-weight: 900;
+}
